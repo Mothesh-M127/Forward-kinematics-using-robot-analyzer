@@ -48,7 +48,7 @@ Update the DH parameters of the link configuration and end effector configuratio
 ## DH PARAMETERS
 
 ### 6 DOF
-![OUTPUT](DH1.png)
+![OUTPUT](./DH1.png)
 
 ### 4 DOF
 ![OUTPUT](./DH.png)
@@ -56,27 +56,27 @@ Update the DH parameters of the link configuration and end effector configuratio
 ## SIMULATION 
 
 ### 6 DOF
-![OUTPUT](./4dof/3d%201.png)
+![OUTPUT](./d1.png)
 
 ### 4 DOF
-![OUTPUT](./4dof/3d.png)
+![OUTPUT](./3d.png)
  
  
 ## PLOT 
 
 ### 6 DOF
-![OUTPUT](./4dof/graph%201.png)
+![OUTPUT](./g1.png)
 
 ### 4 DOF
-![OUTPUT](./4dof/graph.png)
+![OUTPUT](./g2.png)
 
 ## EE CONFIGURATION
 
 ### 6 DOF
-![OUTPUT](./4dof/ee1.png)
+![OUTPUT](./ee1.png)
 
 ### 4 DOF
-![OUTPUT](./4dof/ee.png)
+![OUTPUT](./ee.png)
 
  
 ## RESULT:  
